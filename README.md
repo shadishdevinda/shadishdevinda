@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a B.S.E. (Hons.) undergraduate student at the
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadishdevinda&show_icons=true&theme=radical)
 
 ---
 

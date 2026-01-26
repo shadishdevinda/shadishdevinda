@@ -1,6 +1,6 @@
 # Hi there, I'm Shadish Devinda! 👋
 
-Welcome to my GitHub profile! I am a B.S.E. (Hons.) undergraduate student at the Open University of Sri Lanka, with a passion for programming and an intermediate foundation in Java and C#. I have experience in developing web and mobile applications. I am always eager to learn new technologies and improve my coding skills.
+Welcome to my GitHub profile! I am a B.S.E. (Hons.) undergraduate student at the Open University of Sri Lanka, with a passion for programming and an intermediate foundation in Php and C#. I have experience in developing web and mobile applications. I am always eager to learn new technologies and improve my coding skills.
 
 ---
 
